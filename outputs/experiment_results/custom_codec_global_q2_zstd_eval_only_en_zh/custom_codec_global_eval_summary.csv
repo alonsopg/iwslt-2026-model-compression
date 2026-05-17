@@ -1,0 +1,2 @@
+experiment_name,run,split,rows,seconds,comet,original_total_linear_bytes_est,compressed_total_linear_bytes_est,compression_ratio_est,size_scope,compression_method,model_id,max_new_tokens,model_size_on_disk_gb,compression_ratio_disk
+custom_codec_global_q2_zstd_eval_only_en_zh,custom_codec_global_eval,eval,416,347.88200974464417,0.7410914550463741,15500451840,3895499044,3.9790670373477313,estimated_linear_layers,"Global custom codec: Quantize(digits=2, astype=""f2"") + Zstd",Qwen/Qwen2-Audio-7B-Instruct,64,,

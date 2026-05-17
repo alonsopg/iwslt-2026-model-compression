@@ -1,0 +1,3 @@
+run,split,rows,seconds,comet,comet_diff_vs_baseline,speedup_vs_baseline
+baseline_fp16_eval,eval,416,272.5087218284607,0.7791628381237388,0.0,1.0
+quantized_int8_eval,eval,416,1048.6513731479645,0.77519199395409,-0.003970844169648768,0.2598658894713618

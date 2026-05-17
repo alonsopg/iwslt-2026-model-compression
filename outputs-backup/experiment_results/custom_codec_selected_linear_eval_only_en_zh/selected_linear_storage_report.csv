@@ -1,0 +1,419 @@
+layer_name,was_compressed,original_bytes,compressed_bytes,compression_ratio,method
+audio_tower.layers.0.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.0.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.0.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.0.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.0.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.0.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.1.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.1.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.1.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.1.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.1.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.1.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.2.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.2.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.2.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.2.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.2.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.2.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.3.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.3.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.3.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.3.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.3.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.3.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.4.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.4.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.4.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.4.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.4.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.4.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.5.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.5.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.5.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.5.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.5.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.5.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.6.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.6.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.6.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.6.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.6.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.6.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.7.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.7.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.7.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.7.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.7.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.7.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.8.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.8.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.8.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.8.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.8.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.8.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.9.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.9.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.9.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.9.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.9.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.9.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.10.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.10.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.10.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.10.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.10.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.10.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.11.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.11.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.11.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.11.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.11.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.11.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.12.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.12.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.12.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.12.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.12.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.12.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.13.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.13.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.13.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.13.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.13.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.13.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.14.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.14.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.14.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.14.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.14.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.14.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.15.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.15.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.15.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.15.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.15.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.15.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.16.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.16.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.16.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.16.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.16.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.16.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.17.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.17.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.17.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.17.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.17.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.17.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.18.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.18.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.18.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.18.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.18.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.18.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.19.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.19.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.19.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.19.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.19.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.19.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.20.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.20.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.20.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.20.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.20.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.20.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.21.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.21.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.21.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.21.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.21.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.21.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.22.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.22.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.22.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.22.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.22.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.22.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.23.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.23.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.23.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.23.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.23.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.23.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.24.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.24.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.24.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.24.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.24.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.24.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.25.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.25.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.25.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.25.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.25.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.25.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.26.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.26.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.26.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.26.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.26.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.26.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.27.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.27.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.27.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.27.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.27.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.27.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.28.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.28.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.28.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.28.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.28.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.28.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.29.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.29.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.29.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.29.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.29.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.29.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.30.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.30.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.30.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.30.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.30.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.30.fc2,False,13109760,13109760,1.0,original
+audio_tower.layers.31.self_attn.k_proj,False,3276800,3276800,1.0,original
+audio_tower.layers.31.self_attn.v_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.31.self_attn.q_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.31.self_attn.out_proj,False,3279360,3279360,1.0,original
+audio_tower.layers.31.fc1,False,13117440,13117440,1.0,original
+audio_tower.layers.31.fc2,False,13109760,13109760,1.0,original
+multi_modal_projector.linear,False,10493952,10493952,1.0,original
+language_model.model.layers.0.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.0.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.0.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.0.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.0.mlp.gate_proj,True,90177536,22621769,3.986316719970043,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.0.mlp.up_proj,True,90177536,22317964,4.040580762653797,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.0.mlp.down_proj,True,90177536,22516804,4.004899451982617,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.1.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.1.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.1.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.1.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.1.mlp.gate_proj,True,90177536,22780851,3.9584796898061447,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.1.mlp.up_proj,True,90177536,22475954,4.012178348469658,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.1.mlp.down_proj,True,90177536,22571787,3.995143849266343,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.2.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.2.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.2.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.2.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.2.mlp.gate_proj,True,90177536,22885427,3.9403912367464238,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.2.mlp.up_proj,True,90177536,22489857,4.009698060774686,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.2.mlp.down_proj,True,90177536,22537907,4.001149529989631,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.3.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.3.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.3.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.3.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.3.mlp.gate_proj,True,90177536,22971607,3.9256085131527803,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.3.mlp.up_proj,True,90177536,22493731,4.009007487463951,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.3.mlp.down_proj,True,90177536,22541990,4.000424807215334,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.4.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.4.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.4.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.4.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.4.mlp.gate_proj,True,90177536,23050607,3.9121545042176114,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.4.mlp.up_proj,True,90177536,22500641,4.007776311794851,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.4.mlp.down_proj,True,90177536,22538576,4.0010307660963145,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.5.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.5.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.5.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.5.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.5.mlp.gate_proj,True,90177536,23115289,3.901207378371951,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.5.mlp.up_proj,True,90177536,22528646,4.002794309076542,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.5.mlp.down_proj,True,90177536,22545053,3.9998813043375856,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.6.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.6.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.6.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.6.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.6.mlp.gate_proj,True,90177536,23140559,3.8969471740073347,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.6.mlp.up_proj,True,90177536,22545152,3.999863740106964,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.6.mlp.down_proj,True,90177536,22549621,3.9990710265152574,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.7.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.7.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.7.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.7.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.7.mlp.gate_proj,True,90177536,23215936,3.8842946500197106,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.7.mlp.up_proj,True,90177536,22497721,4.00829648478617,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.7.mlp.down_proj,True,90177536,22490118,4.0096515278399165,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.8.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.8.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.8.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.8.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.8.mlp.gate_proj,True,90177536,23168364,3.8922703389846602,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.8.mlp.up_proj,True,90177536,22546594,3.9996079230415025,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.8.mlp.down_proj,True,90177536,22501857,4.0075597316257054,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.9.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.9.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.9.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.9.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.9.mlp.gate_proj,True,90177536,23114695,3.901307631357455,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.9.mlp.up_proj,True,90177536,22578970,3.9938728825982763,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.9.mlp.down_proj,True,90177536,22526573,4.003162664822563,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.10.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.10.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.10.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.10.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.10.mlp.gate_proj,True,90177536,23000641,3.9206531678834518,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.10.mlp.up_proj,True,90177536,22666746,3.978406781458618,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.10.mlp.down_proj,True,90177536,22595332,3.9909807919618085,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.11.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.11.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.11.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.11.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.11.mlp.gate_proj,True,90177536,22894716,3.9387925143950246,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.11.mlp.up_proj,True,90177536,22801420,3.9549087732255273,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.11.mlp.down_proj,True,90177536,22704190,3.971845549213603,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.12.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.12.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.12.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.12.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.12.mlp.gate_proj,True,90177536,22900325,3.9378277819201255,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.12.mlp.up_proj,True,90177536,22807500,3.953854477693741,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.12.mlp.down_proj,True,90177536,22697683,3.972984202836915,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.13.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.13.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.13.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.13.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.13.mlp.gate_proj,True,90177536,22919676,3.934503088089029,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.13.mlp.up_proj,True,90177536,22866445,3.9436622527025955,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.13.mlp.down_proj,True,90177536,22740588,3.9654883154296625,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.14.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.14.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.14.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.14.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.14.mlp.gate_proj,True,90177536,22822595,3.9512393748388384,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.14.mlp.up_proj,True,90177536,22916228,3.9350950776017766,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.14.mlp.down_proj,True,90177536,22787637,3.957300882052843,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.15.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.15.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.15.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.15.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.15.mlp.gate_proj,True,90177536,22895706,3.9386222027833515,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.15.mlp.up_proj,True,90177536,22945336,3.9301030937180434,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.15.mlp.down_proj,True,90177536,22780202,3.9585924655101827,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.16.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.16.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.16.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.16.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.16.mlp.gate_proj,True,90177536,22883435,3.9407342472841163,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.16.mlp.up_proj,True,90177536,22985531,3.923230487909981,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.16.mlp.down_proj,True,90177536,22828405,3.950233754833069,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.17.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.17.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.17.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.17.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.17.mlp.gate_proj,True,90177536,22930387,3.932665244594433,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.17.mlp.up_proj,True,90177536,23015017,3.9182041881611473,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.17.mlp.down_proj,True,90177536,22839338,3.948342810986903,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.18.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.18.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.18.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.18.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.18.mlp.gate_proj,True,90177536,22935859,3.93172699570572,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.18.mlp.up_proj,True,90177536,23026488,3.916252274337276,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.18.mlp.down_proj,True,90177536,22873356,3.9424707069657816,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.19.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.19.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.19.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.19.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.19.mlp.gate_proj,True,90177536,22934726,3.9319212272254744,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.19.mlp.up_proj,True,90177536,23049538,3.9123359435664176,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.19.mlp.down_proj,True,90177536,22914895,3.9353239890472986,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.20.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.20.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.20.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.20.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.20.mlp.gate_proj,True,90177536,22982017,3.9238303583188543,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.20.mlp.up_proj,True,90177536,23033403,3.9150765520839452,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.20.mlp.down_proj,True,90177536,22917499,3.9348768380005166,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.21.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.21.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.21.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.21.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.21.mlp.gate_proj,True,90177536,22995337,3.921557487937663,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.21.mlp.up_proj,True,90177536,23054384,3.9115135758994906,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.21.mlp.down_proj,True,90177536,22949064,3.929464661390983,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.22.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.22.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.22.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.22.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.22.mlp.gate_proj,True,90177536,23032816,3.9151763292860067,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.22.mlp.up_proj,True,90177536,23025524,3.916416234436185,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.22.mlp.down_proj,True,90177536,22955346,3.928389317242267,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.23.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.23.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.23.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.23.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.23.mlp.gate_proj,True,90177536,23044645,3.913166638062769,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.23.mlp.up_proj,True,90177536,23057766,3.9109398542772964,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.23.mlp.down_proj,True,90177536,22983031,3.923657240857396,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.24.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.24.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.24.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.24.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.24.mlp.gate_proj,True,90177536,23069096,3.9090190616918843,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.24.mlp.up_proj,True,90177536,23087803,3.9058517607760255,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.24.mlp.down_proj,True,90177536,23015789,3.9180727630063,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.25.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.25.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.25.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.25.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.25.mlp.gate_proj,True,90177536,23080920,3.9070165314034275,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.25.mlp.up_proj,True,90177536,23139737,3.897085606461301,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.25.mlp.down_proj,True,90177536,23066803,3.909407645264062,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.26.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.26.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.26.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.26.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.26.mlp.gate_proj,True,90177536,23101768,3.9034906765577424,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.26.mlp.up_proj,True,90177536,23194305,3.887917141729403,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.26.mlp.down_proj,True,90177536,23120423,3.900341096700523,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.27.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.27.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.27.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.27.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.27.mlp.gate_proj,True,90177536,23113823,3.90145481342485,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.27.mlp.up_proj,True,90177536,23270032,3.8752648041051256,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.27.mlp.down_proj,True,90177536,23186897,3.889159295441732,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.28.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.28.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.28.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.28.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.28.mlp.gate_proj,True,90177536,23142263,3.8966602358637097,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.28.mlp.up_proj,True,90177536,23346459,3.8625787319610225,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.28.mlp.down_proj,True,90177536,23258908,3.8771182206834474,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.29.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.29.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.29.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.29.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.29.mlp.gate_proj,True,90177536,23190350,3.8885802068532818,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.29.mlp.up_proj,True,90177536,23412856,3.851624765470731,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.29.mlp.down_proj,True,90177536,23305502,3.8693668130383974,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.30.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.30.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.30.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.30.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.30.mlp.gate_proj,True,90177536,23274866,3.874459943185065,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.30.mlp.up_proj,True,90177536,23548196,3.82948808477728,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.30.mlp.down_proj,True,90177536,23328373,3.8655733085200583,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.31.self_attn.q_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.31.self_attn.k_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.31.self_attn.v_proj,False,33562624,33562624,1.0,original
+language_model.model.layers.31.self_attn.o_proj,False,33554432,33554432,1.0,original
+language_model.model.layers.31.mlp.gate_proj,True,90177536,23474983,3.8414313654668035,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.31.mlp.up_proj,True,90177536,23736338,3.799134306227018,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.model.layers.31.mlp.down_proj,True,90177536,23118778,3.9006186226624955,"Selected layers custom codec: Quantize(digits=2, astype=""f2"") + Zstd"
+language_model.lm_head,False,1278214144,1278214144,1.0,original

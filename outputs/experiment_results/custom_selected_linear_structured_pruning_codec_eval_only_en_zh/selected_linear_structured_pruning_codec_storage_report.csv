@@ -1,0 +1,419 @@
+layer_name,is_selected_layer,original_linear_bytes_est,current_linear_bytes_est,compression_ratio_est,method,module_type,original_module_type
+audio_tower.layers.0.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.0.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.0.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.0.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.0.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.0.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.1.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.2.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.3.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.4.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.5.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.6.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.7.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.8.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.9.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.10.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.11.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.12.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.13.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.14.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.15.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.16.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.17.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.18.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.19.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.20.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.21.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.22.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.23.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.24.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.25.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.26.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.27.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.28.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.29.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.30.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.self_attn.k_proj,False,3276800,3276800,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.self_attn.v_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.self_attn.q_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.self_attn.out_proj,False,3279360,3279360,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.fc1,False,13117440,13117440,1.0,structured_pruned_or_original,Linear,Linear
+audio_tower.layers.31.fc2,False,13109760,13109760,1.0,structured_pruned_or_original,Linear,Linear
+multi_modal_projector.linear,False,10493952,10493952,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.0.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.0.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.0.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.0.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.0.mlp.gate_proj,True,90177536,18152439,4.967791711075299,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.0.mlp.up_proj,True,90177536,17912675,5.034286392177606,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.0.mlp.down_proj,True,90177536,18039781,4.9988154512518745,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.1.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.1.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.1.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.1.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.1.mlp.gate_proj,True,90177536,18276109,4.934175868616236,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.1.mlp.up_proj,True,90177536,18021098,5.003997869608167,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.1.mlp.down_proj,True,90177536,18083931,4.986611373378941,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.2.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.2.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.2.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.2.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.2.mlp.gate_proj,True,90177536,18355343,4.912876648505016,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.2.mlp.up_proj,True,90177536,18020010,5.004299997613764,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.2.mlp.down_proj,True,90177536,18046643,4.9969147170473756,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.3.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.3.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.3.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.3.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.3.mlp.gate_proj,True,90177536,18422336,4.895010925867382,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.3.mlp.up_proj,True,90177536,18018410,5.004744369786235,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.3.mlp.down_proj,True,90177536,18049645,4.996083634885894,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.4.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.4.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.4.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.4.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.4.mlp.gate_proj,True,90177536,18493743,4.876110585077342,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.4.mlp.up_proj,True,90177536,18019678,5.004392198351158,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.4.mlp.down_proj,True,90177536,18046835,4.996861554948555,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.5.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.5.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.5.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.5.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.5.mlp.gate_proj,True,90177536,18561516,4.85830661676557,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.5.mlp.up_proj,True,90177536,18051132,4.995672071978643,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.5.mlp.down_proj,True,90177536,18061293,4.9928615852696705,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.6.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.6.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.6.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.6.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.6.mlp.gate_proj,True,90177536,18594814,4.849606777459565,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.6.mlp.up_proj,True,90177536,18068944,4.990747439363363,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.6.mlp.down_proj,True,90177536,18071695,4.989987712829372,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.7.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.7.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.7.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.7.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.7.mlp.gate_proj,True,90177536,18704125,4.821264614089138,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.7.mlp.up_proj,True,90177536,18043579,4.9977632486326575,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.7.mlp.down_proj,True,90177536,18028551,5.001929217716943,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.8.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.8.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.8.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.8.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.8.mlp.gate_proj,True,90177536,18683394,4.826614265052699,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.8.mlp.up_proj,True,90177536,18110508,4.979293568131827,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.8.mlp.down_proj,True,90177536,18052520,4.995287970876088,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.9.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.9.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.9.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.9.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.9.mlp.gate_proj,True,90177536,18651891,4.8347664051864765,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.9.mlp.up_proj,True,90177536,18133777,4.972904210744402,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.9.mlp.down_proj,True,90177536,18085291,4.986236384031642,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.10.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.10.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.10.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.10.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.10.mlp.gate_proj,True,90177536,18571919,4.855585252121765,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.10.mlp.up_proj,True,90177536,18222057,4.94881209075353,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.10.mlp.down_proj,True,90177536,18159493,4.965861987446456,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.11.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.11.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.11.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.11.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.11.mlp.gate_proj,True,90177536,18511520,4.871427954052395,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.11.mlp.up_proj,True,90177536,18349180,4.914526752694126,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.11.mlp.down_proj,True,90177536,18259836,4.93857316133617,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.12.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.12.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.12.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.12.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.12.mlp.gate_proj,True,90177536,18514546,4.870631772445297,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.12.mlp.up_proj,True,90177536,18356190,4.9126499562273,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.12.mlp.down_proj,True,90177536,18255248,4.939814348180863,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.13.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.13.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.13.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.13.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.13.mlp.gate_proj,True,90177536,18545927,4.862390324301395,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.13.mlp.up_proj,True,90177536,18411352,4.897931232861118,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.13.mlp.down_proj,True,90177536,18288557,4.930817450496504,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.14.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.14.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.14.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.14.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.14.mlp.gate_proj,True,90177536,18439196,4.8905351404692485,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.14.mlp.up_proj,True,90177536,18445012,4.8889930784539475,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.14.mlp.down_proj,True,90177536,18319738,4.9224249822786765,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.15.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.15.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.15.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.15.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.15.mlp.gate_proj,True,90177536,18516400,4.870144088483722,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.15.mlp.up_proj,True,90177536,18473250,4.881519819198029,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.15.mlp.down_proj,True,90177536,18318985,4.922627318052829,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.16.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.16.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.16.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.16.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.16.mlp.gate_proj,True,90177536,18481502,4.879340218127293,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.16.mlp.up_proj,True,90177536,18501331,4.874110732898082,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.16.mlp.down_proj,True,90177536,18354103,4.913208561595192,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.17.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.17.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.17.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.17.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.17.mlp.gate_proj,True,90177536,18528183,4.867046919819391,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.17.mlp.up_proj,True,90177536,18531982,4.8660491899895,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.17.mlp.down_proj,True,90177536,18365971,4.910033670422326,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.18.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.18.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.18.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.18.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.18.mlp.gate_proj,True,90177536,18507620,4.872454480911106,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.18.mlp.up_proj,True,90177536,18533068,4.865764049427758,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.18.mlp.down_proj,True,90177536,18387638,4.9042479518032716,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.19.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.19.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.19.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.19.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.19.mlp.gate_proj,True,90177536,18491218,4.8767764243545235,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.19.mlp.up_proj,True,90177536,18548531,4.861707700733821,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.19.mlp.down_proj,True,90177536,18419540,4.895753965625635,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.20.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.20.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.20.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.20.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.20.mlp.gate_proj,True,90177536,18515356,4.870418694622993,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.20.mlp.up_proj,True,90177536,18523159,4.868366999387091,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.20.mlp.down_proj,True,90177536,18416591,4.896537909757566,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.21.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.21.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.21.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.21.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.21.mlp.gate_proj,True,90177536,18505416,4.87303479154427,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.21.mlp.up_proj,True,90177536,18529113,4.866802636478066,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.21.mlp.down_proj,True,90177536,18426595,4.893879525761542,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.22.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.22.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.22.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.22.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.22.mlp.gate_proj,True,90177536,18508634,4.872187542311334,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.22.mlp.up_proj,True,90177536,18486445,4.8780355552406105,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.22.mlp.down_proj,True,90177536,18416388,4.896591883272659,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.23.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.23.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.23.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.23.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.23.mlp.gate_proj,True,90177536,18506810,4.872667736903335,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.23.mlp.up_proj,True,90177536,18500865,4.874233502055175,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.23.mlp.down_proj,True,90177536,18426944,4.893786837361637,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.24.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.24.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.24.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.24.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.24.mlp.gate_proj,True,90177536,18505102,4.873117478628326,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.24.mlp.up_proj,True,90177536,18510379,4.87172823419769,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.24.mlp.down_proj,True,90177536,18447375,4.888366827258621,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.25.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.25.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.25.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.25.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.25.mlp.gate_proj,True,90177536,18508723,4.872164114185511,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.25.mlp.up_proj,True,90177536,18546030,4.862363319804832,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.25.mlp.down_proj,True,90177536,18480803,4.8795247695676425,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.26.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.26.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.26.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.26.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.26.mlp.gate_proj,True,90177536,18520017,4.86919293864579,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.26.mlp.up_proj,True,90177536,18583529,4.852551740845348,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.26.mlp.down_proj,True,90177536,18523318,4.868325210418566,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.27.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.27.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.27.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.27.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.27.mlp.gate_proj,True,90177536,18534353,4.865426702512896,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.27.mlp.up_proj,True,90177536,18647212,4.8359795555496445,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.27.mlp.down_proj,True,90177536,18579767,4.853534277367418,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.28.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.28.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.28.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.28.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.28.mlp.gate_proj,True,90177536,18562298,4.858101944058866,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.28.mlp.up_proj,True,90177536,18713525,4.81884284227584,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.28.mlp.down_proj,True,90177536,18640646,4.837682985879352,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.29.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.29.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.29.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.29.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.29.mlp.gate_proj,True,90177536,18609339,4.845821552286194,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.29.mlp.up_proj,True,90177536,18778010,4.802294598841943,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.29.mlp.down_proj,True,90177536,18692606,4.824235636272438,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.30.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.30.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.30.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.30.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.30.mlp.gate_proj,True,90177536,18687581,4.825532849864303,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.30.mlp.up_proj,True,90177536,18935343,4.76239252703265,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.30.mlp.down_proj,True,90177536,18757174,4.807629123662232,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.31.self_attn.q_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.31.self_attn.k_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.31.self_attn.v_proj,False,33562624,33562624,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.31.self_attn.o_proj,False,33554432,33554432,1.0,structured_pruned_or_original,Linear,Linear
+language_model.model.layers.31.mlp.gate_proj,True,90177536,18831314,4.788701202688245,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.31.mlp.up_proj,True,90177536,19119243,4.716585065632567,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.model.layers.31.mlp.down_proj,True,90177536,18662362,4.832053734677315,"Selected-layer codec after structured pruning: Quantize(digits=2, astype='f2') + Zstd",CompressedLinear,Linear
+language_model.lm_head,False,1278214144,1278214144,1.0,structured_pruned_or_original,Linear,Linear

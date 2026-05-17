@@ -1,0 +1,18 @@
+{
+  "timestamp_utc": "2026-03-18T12:26:05.840424",
+  "experiment_name": "qwen2audio_eval_only_en_zh_bnb_int8_maxnew64",
+  "run": "quantized_int8_eval",
+  "split": "eval",
+  "rows": 416,
+  "seconds": 1050.8985221385956,
+  "seconds_per_item": 2.5261983705254702,
+  "comet": 0.77519199395409,
+  "model_id": "Qwen/Qwen2-Audio-7B-Instruct",
+  "prompt_text": "Translate this English speech into Chinese.",
+  "max_new_tokens": 64,
+  "comet_batch_size": 16,
+  "predictions_csv": "/home/paperspace/projects/iwslt2026-compression/outputs/experiment_results/qwen2audio_eval_only_en_zh_bnb_int8_maxnew64/quantized_int8_eval_preds.csv",
+  "quantization_method": "bitsandbytes_int8",
+  "precision": "int8",
+  "eval_split_source": "eval"
+}

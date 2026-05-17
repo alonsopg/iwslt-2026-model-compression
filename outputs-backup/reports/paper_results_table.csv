@@ -1,0 +1,7 @@
+experiment_name,run,split,method_label,precision,rows,comet,comet_delta_vs_baseline,relative_comet_drop_pct_vs_baseline,seconds,seconds_per_item,effective_compression_ratio,original_total_gb_filled,effective_current_total_gb,max_new_tokens
+qwen2audio_eval_only_en_zh_bnb_int8_maxnew64,baseline_fp16_eval,eval,none,fp16,416,0.779163,0.0,0.0,272.678,0.655477,1.0,14.436,14.436,64
+custom_selected_linear_codec_all_selected_q3_zstd_eval_only_en_zh,selected_layer_codec_all_selected_q3_eval,eval,custom_selected_linear_codec,custom,416,0.776689,-0.002473,-0.317,309.202,0.743273,1.0,6.373,6.373,64
+custom_codec_selected_linear_eval_only_en_zh,selected_linear_codec_eval,eval,custom_selected_linear_codec,custom,416,0.776365,-0.002798,-0.359,310.144,0.74554,1.714,14.436,8.422,64
+qwen2audio_eval_only_en_zh_bnb_int8_maxnew64,quantized_int8_eval,eval,bitsandbytes_int8,int8,416,0.775192,-0.003971,-0.51,1050.899,2.526198,,14.436,,64
+custom_codec_global_q2_zstd_eval_only_en_zh,custom_codec_global_eval,eval,global_codec,custom,416,0.741091,-0.038071,-4.886,349.247,0.839537,3.979,14.436,3.628,64
+custom_selected_linear_structured_pruning_codec_eval_only_en_zh,selected_linear_structured_pruning_codec_eval,eval,selected_layer_structured_pruning_plus_codec,custom,416,0.587115,-0.192048,-24.648,359.758,0.864802,1.0,6.373,6.373,64

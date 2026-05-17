@@ -1,0 +1,27 @@
+# Local caches and notebook/runtime noise
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Raw datasets and generated test bundles live outside Git.
+data/raw/
+data/test_sets/
+
+# Large model artifacts are stored on Hugging Face.
+outputs/submission_artifacts/
+outputs/experiment_results/**/model_artifacts/
+
+# Common heavyweight model/checkpoint formats.
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Archives and compressed dataset/model bundles.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz

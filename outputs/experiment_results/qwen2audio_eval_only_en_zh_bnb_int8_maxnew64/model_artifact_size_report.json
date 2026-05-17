@@ -1,0 +1,14 @@
+{
+  "experiment_name": "qwen2audio_eval_only_en_zh_bnb_int8_maxnew64",
+  "run_split": "eval",
+  "max_new_tokens": 64,
+  "baseline_artifact_dir": "/home/paperspace/projects/iwslt2026-compression/outputs/experiment_results/qwen2audio_eval_only_en_zh_bnb_int8_maxnew64/model_artifacts/baseline_fp16",
+  "baseline_artifact_bytes": 16794586369,
+  "baseline_artifact_gb": 15.641177416779101,
+  "baseline_artifact_source": "saved_artifact",
+  "quant_artifact_dir": "/home/paperspace/projects/iwslt2026-compression/outputs/experiment_results/qwen2audio_eval_only_en_zh_bnb_int8_maxnew64/model_artifacts/bitsandbytes_int8",
+  "quant_artifact_bytes": 9691487261,
+  "quant_artifact_gb": 9.025900867767632,
+  "quant_artifact_source": "saved_artifact",
+  "quant_save_error": null
+}

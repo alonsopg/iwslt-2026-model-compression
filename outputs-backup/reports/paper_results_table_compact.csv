@@ -1,0 +1,7 @@
+Experiment,Method,Prec.,COMET,Δ COMET,Sec/item,Comp. Ratio,Orig GB,Comp GB
+qwen2audio_eval_only_en_zh_bnb_int8_maxnew64,none,fp16,0.779163,0.0,0.655477,1.0,14.436,14.436
+custom_selected_linear_codec_all_selected_q3_zstd_eval_only_en_zh,custom_selected_linear_codec,custom,0.776689,-0.002473,0.743273,1.0,6.373,6.373
+custom_codec_selected_linear_eval_only_en_zh,custom_selected_linear_codec,custom,0.776365,-0.002798,0.74554,1.714,14.436,8.422
+qwen2audio_eval_only_en_zh_bnb_int8_maxnew64,bitsandbytes_int8,int8,0.775192,-0.003971,2.526198,,14.436,
+custom_codec_global_q2_zstd_eval_only_en_zh,global_codec,custom,0.741091,-0.038071,0.839537,3.979,14.436,3.628
+custom_selected_linear_structured_pruning_codec_eval_only_en_zh,selected_layer_structured_pruning_plus_codec,custom,0.587115,-0.192048,0.864802,1.0,6.373,6.373
