@@ -1,6 +1,6 @@
 # IWSLT 2026 Model Compression Experiments
 
-Notebook-driven experiments for compressing and evaluating `Qwen/Qwen2-Audio-7B-Instruct` on the IWSLT 2026 speech translation/model compression workflow.
+Notebook-driven experiments for compressing and evaluating [`Qwen/Qwen2-Audio-7B-Instruct`](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct) on the IWSLT 2026 speech translation/model compression workflow.
 
 The repository keeps the code, notebooks, manifests, submission text files, and lightweight experiment summaries in Git. Large datasets, model checkpoints, compressed model artifacts, and archives are intentionally excluded because they are stored externally on Hugging Face.
 
@@ -89,6 +89,22 @@ Large artifacts are not committed to Git:
 - model artifact directories under `outputs/experiment_results/**/model_artifacts/`
 
 Those files are expected to be restored from the Hugging Face artifact storage used for these experiments before rerunning notebooks that depend on local checkpoints or raw audio.
+
+Relevant Hugging Face model/artifact repositories:
+
+- [`Qwen/Qwen2-Audio-7B-Instruct`](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct): upstream baseline model used by the experiments.
+- [`alonsopg/qwen2audio-selected-layer-codec-q2`](https://huggingface.co/alonsopg/qwen2audio-selected-layer-codec-q2): selected-layer custom codec artifact with q2 quantization and Zstd.
+- [`alonsopg/qwen2audio-selected-layer-codec-q3`](https://huggingface.co/alonsopg/qwen2audio-selected-layer-codec-q3): selected-layer custom codec artifact with q3 quantization and Zstd.
+
+Example artifact restore commands:
+
+```bash
+huggingface-cli download alonsopg/qwen2audio-selected-layer-codec-q2 \
+  --local-dir outputs/submission_artifacts/selected_layer_codec_q2_zstd
+
+huggingface-cli download alonsopg/qwen2audio-selected-layer-codec-q3 \
+  --local-dir outputs/submission_artifacts/selected_layer_codec_q3_zstd
+```
 
 ## Git Notes
 
